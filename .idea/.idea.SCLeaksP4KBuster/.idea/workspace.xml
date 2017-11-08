@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e934eb5b-ea07-4d92-bac6-2ef017d5f270" name="Default" comment="" />
+    <list default="true" id="e934eb5b-ea07-4d92-bac6-2ef017d5f270" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/App.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/P4K Buster.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/P4K Buster.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/P4K Buster.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/P4K Buster.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/P4K Buster.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Release/CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/P4K Buster.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/P4K Buster.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/P4K Buster.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/P4K Buster.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/obj/x64/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/zStd/ArraySegmentPtr.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/zStd/CompressionOptions.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/zStd/Compressor.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/zStd/DecompressionOptions.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/zStd/Decompressor.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/zStd/DictBuilder.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/zStd/ExternMethods.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/P4K Buster/zStd/ThrowHelper.cs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.SCLeaksP4KBuster/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.SCLeaksP4KBuster/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,64 +48,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SCLeaksP4KBuster/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-248">
-              <caret line="91" column="58" lean-forward="true" selection-start-line="91" selection-start-column="58" selection-end-line="91" selection-end-column="58" />
+            <state relative-caret-position="1725">
+              <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
               <folding>
-                <marker date="1510116216883" expanded="true" signature="6:98" ph="..." />
-                <marker date="1510116216883" expanded="true" signature="126:11500" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="162:11498" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="215:426" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="323:416" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="496:10367" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="749:10143" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="876:987" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="1012:10125" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="1833:2473" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="2028:2447" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="2127:2293" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="2827:2925" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="3058:3276" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="3440:3806" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="3530:3641" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="4262:4436" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="4514:4708" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="4913:5263" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="4999:5110" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="5315:5483" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="5617:5856" ph="/* long fileSize = fileSizeBytes[3] &lt;&lt; 32 | fileSizeBytes[2] &lt;&lt; 16 | fileSizeBytes[1] &lt;&lt; 8 | fileSizeBytes[0]; ... */" />
-                <marker date="1510116216883" expanded="true" signature="6110:6246" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="6407:6641" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="6643:6750" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="6950:7660" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="7107:7528" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="7200:7330" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="7371:7494" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="7693:7918" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="8079:9257" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="8182:9231" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="8277:8428" ph="/* byte[] decompData = new byte[]; ... */" />
-                <marker date="1510116216883" expanded="true" signature="8540:8695" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="8749:8937" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="9053:9201" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="9286:9558" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="9424:9532" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="9940:10076" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="10440:10700" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="10604:10690" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="10755:11228" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="11007:11187" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="11071:11173" ph="{...}" />
-                <marker date="1510116216883" expanded="true" signature="11277:11492" ph="{...}" />
+                <marker date="1510161076232" expanded="false" signature="6:147" ph="..." />
+                <marker date="1510161076232" expanded="true" signature="175:6140" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="195:6138" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="241:1379" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="965:1305" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="1492:6132" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="2383:2849" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="2526:2835" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="2599:2717" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="3248:3531" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="3594:3770" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="3787:3969" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="3982:4123" ph="/* Console.WriteLine(lastCharIndex); ... */" />
+                <marker date="1510161076232" expanded="true" signature="4737:5670" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="4813:5656" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="4855:5281" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="5134:5259" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="5323:5638" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="5687:6028" ph="{...}" />
+                <marker date="1510161076232" expanded="true" signature="5913:6014" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SCLeaksP4KBuster/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -91,6 +107,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -106,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -119,25 +135,13 @@
               <item name="SCLeaksP4KBuster (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="SCLeaksP4KBuster" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="SCLeaksP4KBuster (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="SCLeaksP4KBuster" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="SCLeaksP4KBuster (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="SCLeaksP4KBuster" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assemblies" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,12 +183,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510089633913</updated>
-      <workItem from="1510089635742" duration="26335000" />
+      <workItem from="1510089635742" duration="26938000" />
+      <workItem from="1510161076505" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26335000" />
+    <option name="totallyTimeSpent" value="26950000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,27 +202,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14978679" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14818764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2652174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2652174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -234,64 +238,61 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SCLeaksP4KBuster/zstd.cs">
+    <entry file="file://$PROJECT_DIR$/SCLeaksP4KBuster/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510161076232" expanded="false" signature="6:147" ph="..." />
+            <marker date="1510161076232" expanded="true" signature="175:6140" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="195:6138" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="241:1379" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="965:1305" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="1492:6132" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="2383:2849" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="2526:2835" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="2599:2717" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="3248:3531" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="3594:3770" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="3787:3969" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="3982:4123" ph="/* Console.WriteLine(lastCharIndex); ... */" />
+            <marker date="1510161076232" expanded="true" signature="4737:5670" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="4813:5656" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="4855:5281" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="5134:5259" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="5323:5638" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="5687:6028" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="5913:6014" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SCLeaksP4KBuster/zstd.cs" />
     <entry file="file://$PROJECT_DIR$/SCLeaksP4KBuster/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
-          <caret line="91" column="58" lean-forward="true" selection-start-line="91" selection-start-column="58" selection-end-line="91" selection-end-column="58" />
+        <state relative-caret-position="1725">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
           <folding>
-            <marker date="1510116216883" expanded="true" signature="6:98" ph="..." />
-            <marker date="1510116216883" expanded="true" signature="126:11500" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="162:11498" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="215:426" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="323:416" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="496:10367" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="749:10143" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="876:987" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="1012:10125" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="1833:2473" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="2028:2447" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="2127:2293" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="2827:2925" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="3058:3276" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="3440:3806" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="3530:3641" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="4262:4436" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="4514:4708" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="4913:5263" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="4999:5110" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="5315:5483" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="5617:5856" ph="/* long fileSize = fileSizeBytes[3] &lt;&lt; 32 | fileSizeBytes[2] &lt;&lt; 16 | fileSizeBytes[1] &lt;&lt; 8 | fileSizeBytes[0]; ... */" />
-            <marker date="1510116216883" expanded="true" signature="6110:6246" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="6407:6641" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="6643:6750" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="6950:7660" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="7107:7528" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="7200:7330" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="7371:7494" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="7693:7918" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="8079:9257" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="8182:9231" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="8277:8428" ph="/* byte[] decompData = new byte[]; ... */" />
-            <marker date="1510116216883" expanded="true" signature="8540:8695" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="8749:8937" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="9053:9201" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="9286:9558" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="9424:9532" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="9940:10076" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="10440:10700" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="10604:10690" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="10755:11228" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="11007:11187" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="11071:11173" ph="{...}" />
-            <marker date="1510116216883" expanded="true" signature="11277:11492" ph="{...}" />
+            <marker date="1510161076232" expanded="false" signature="6:147" ph="..." />
+            <marker date="1510161076232" expanded="true" signature="175:6140" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="195:6138" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="241:1379" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="965:1305" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="1492:6132" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="2383:2849" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="2526:2835" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="2599:2717" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="3248:3531" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="3594:3770" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="3787:3969" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="3982:4123" ph="/* Console.WriteLine(lastCharIndex); ... */" />
+            <marker date="1510161076232" expanded="true" signature="4737:5670" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="4813:5656" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="4855:5281" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="5134:5259" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="5323:5638" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="5687:6028" ph="{...}" />
+            <marker date="1510161076232" expanded="true" signature="5913:6014" ph="{...}" />
           </folding>
         </state>
       </provider>
