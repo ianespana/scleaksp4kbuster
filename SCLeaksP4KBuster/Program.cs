@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ZstdNet;
 
-namespace P4K_Buster
+namespace SCLeaksP4KBuster
 {
     class Program
     {

@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("P4K Buster")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("SCLeaksP4KBuster")]
+[assembly: AssemblyDescription("Contributors: Aftokinito, Heracles421. Dino can SUCC.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("P4K Buster")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCompany("SCLeaks")]
+[assembly: AssemblyProduct("SCLeaksP4KBuster")]
+[assembly: AssemblyCopyright("Copyright SCLeaks© 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

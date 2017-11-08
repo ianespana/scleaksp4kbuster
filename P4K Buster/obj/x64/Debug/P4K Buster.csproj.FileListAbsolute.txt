@@ -1,6 +1,0 @@
-c:\users\ianes\Documents\Visual Studio 2017\Projects\P4K Buster\P4K Buster\bin\x64\Debug\P4K Buster.exe.config
-c:\users\ianes\Documents\Visual Studio 2017\Projects\P4K Buster\P4K Buster\bin\x64\Debug\P4K Buster.exe
-c:\users\ianes\Documents\Visual Studio 2017\Projects\P4K Buster\P4K Buster\bin\x64\Debug\P4K Buster.pdb
-c:\users\ianes\Documents\Visual Studio 2017\Projects\P4K Buster\P4K Buster\obj\x64\Debug\P4K Buster.exe
-c:\users\ianes\Documents\Visual Studio 2017\Projects\P4K Buster\P4K Buster\obj\x64\Debug\P4K Buster.pdb
-c:\users\ianes\Documents\Visual Studio 2017\Projects\P4K Buster\P4K Buster\obj\x64\Debug\P4K Buster.csprojResolveAssemblyReference.cache

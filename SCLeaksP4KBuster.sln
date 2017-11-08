@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4K Buster", "P4K Buster\P4K Buster.csproj", "{10EDF77D-79B2-4683-A544-2648031573FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCLeaksP4KBuster", "SCLeaksP4KBuster\SCLeaksP4KBuster.csproj", "{10EDF77D-79B2-4683-A544-2648031573FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

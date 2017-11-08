@@ -3,18 +3,26 @@
   <component name="ContentModelStore">
     <e p="C:\Users\carma\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_SCLeaksP4KBuster.-2112111061.00" t="ExcludeRecursive" />
     <e p="G:\CIG\p4kdata\scleaksp4kbuster\scleaksp4kbuster" t="IncludeFlat">
-      <e p="packages" t="ExcludeRecursive">
-        <e p="ZstdNet.1.3.1\build\x64\libzstd.dll" t="Include" />
-      </e>
+      <e p="packages" t="ExcludeRecursive" />
       <e p="scleaksp4kbuster" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
-        <e p="packages.config" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="SCLeaksP4KBuster.csproj" t="IncludeRecursive" />
+        <e p="zStd" t="Include">
+          <e p="ArraySegmentPtr.cs" t="Include" />
+          <e p="CompressionOptions.cs" t="Include" />
+          <e p="Compressor.cs" t="Include" />
+          <e p="DecompressionOptions.cs" t="Include" />
+          <e p="Decompressor.cs" t="Include" />
+          <e p="DictBuilder.cs" t="Include" />
+          <e p="ExternMethods.cs" t="Include" />
+          <e p="ThrowHelper.cs" t="Include" />
+        </e>
       </e>
       <e p="SCLeaksP4KBuster.sln" t="IncludeFlat" />
     </e>
